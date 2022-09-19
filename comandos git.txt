@@ -1,3 +1,14 @@
 git add "codigo.txt" // ele adiciona ao controle de versao
 git status // ver os status dos arquivos
 git add . //adiciona todo os arquivos ao controle de versao
+git commit -m "commit incial" // colocar a msg que representa o que foi feito naquela versao
+git config --global user.email ""// colocar o email do github
+git config --global user.name ""// colocar o nome
+git remot add origin linkrepository
+
+git push --set-upstream origin master
+
+//abrir um repository
+//pegar o link
+//get remote add origin link
+//git push --set upstream origin master
