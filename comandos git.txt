@@ -1,0 +1,3 @@
+git add "codigo.txt" // ele adiciona ao controle de versao
+git status // ver os status dos arquivos
+git add . //adiciona todo os arquivos ao controle de versao
